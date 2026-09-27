@@ -1,0 +1,4 @@
+requests
+gitpython
+click
+rich
