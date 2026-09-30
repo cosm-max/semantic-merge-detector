@@ -319,7 +319,7 @@ semantic-merge-detector/
 
 | Name | Role |
 |---|---|
-| *(your name here)* | Developer |
+| *AUXILIO* | Developer |
 
 *Built at IBM Bob Hackathon 2.0.*
 
